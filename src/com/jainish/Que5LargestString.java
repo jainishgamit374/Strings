@@ -12,6 +12,7 @@ public class Que5LargestString {
         System.out.println(largest);
     }
 
+    // Tc = O(x*n) where x is the length of the largest string and n is the length of the array
     public static void main(String[] args) {
         String fruits[] = {"Apple","Mango", "Banana"};
         largestString(fruits); // This is used to print the largest string
