@@ -1,7 +1,7 @@
 package com.jainish;
 //It will convert first letter of Word in to uppercase
 public class Que7ConvertUppercase {
-
+    //TC = O(n) where n is the length of the string
     public static String toUpperCase(String str){
         StringBuilder sb = new StringBuilder(" ");
         char ch = Character.toUpperCase(str.charAt(0));

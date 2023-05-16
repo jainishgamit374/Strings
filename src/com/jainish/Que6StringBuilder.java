@@ -9,7 +9,8 @@ public class Que6StringBuilder {
         //TC = O(26) n is the length of the string
         System.out.println(sb+" ");
         System.out.println(sb.length());
-        //StringBuilder is functions
+
+        //StringBuilder some  functions
         //1. append() is used to add the character in the string from the last index
         //2. insert() is used to add the character in the string from the given index
         //3. delete() is used to delete the character from the string
